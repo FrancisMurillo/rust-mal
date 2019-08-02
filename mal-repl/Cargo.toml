@@ -1,0 +1,9 @@
+[package]
+name = "mal-repl"
+version = "0.1.0"
+authors = ["Francis Murillo <francisavmurillo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+mal = { path = "../mal" }
+rustyline = "5.0.1"

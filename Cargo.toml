@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "mal",
+  "mal-repl",
+]
